@@ -1,0 +1,14 @@
+ Recap des fonctions à respecter
+ 
+ - Sauvegarder un grand nombres d'oeuvres de plusieurs types:
+        - films, series, animes, mangas, livres, ( musiques ? )
+        
+        -Il faut donc pour ces oeuvres : 
+                - Sauvegarder et gerer leurs caractéristiques en distinguant similitudes et différences ( sans redondances)
+                - Sauvegarder les critiques et avis pour chaque oeuvre de chaque utilisateurs
+                - Sauvegarder le nombre visionnage ou lecture de l'oeuvre
+                - Sauvegarde le dernier chapitre, tome, épisode, film pour toutes les oeuvres qui le permetent
+        
+ - Sauvegarder des users
+ 
+ - Distinguer la partie mémo de la partie critique
